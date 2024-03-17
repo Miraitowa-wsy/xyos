@@ -1,5 +1,5 @@
 <h1 align="center" style="text-align:center;">
-<img src="images/logo.png" alt="logo" width="20%"/>
+<img src="images/xyoslogo.png" alt="logo" width="20%"/>
 
 <br />
 星芸OS(WebOS)
